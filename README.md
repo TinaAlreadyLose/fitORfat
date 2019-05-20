@@ -1,4 +1,5 @@
 # fit or fat
+[汉语](README_zh.md)
 > last year i'm quit fit, however in this year, in reasons i become fat.
 known it's time to become fit , so i make a flag know: before sept i'll return
 
